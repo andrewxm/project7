@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>CSS Classes and IDs</title>
+	<meta name="generator" content="BBEdit 10.5" />
+</head>
+<body>
+#main-headline {text-align: center;
+				color: blue;}
+h1 {text-align: center; color: blue;}
+h2 {text-align: center;}
+.place-description {font-family: Verdana; 
+					color: olive;}
+.person-description {color: purple;}
+.top-favorite {color: red;
+			font-style: italic; 
+			font-weight: bold;}
+.important-point {text-decoration: underline;}
+.emphasis {font-style: italic;}
+</body>
+</html>
